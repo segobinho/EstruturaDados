@@ -1,5 +1,4 @@
-﻿using Presentation.menus;
-using Presentation.Menus;
+﻿using Presentation.Menus;
 
 while (true)
 {

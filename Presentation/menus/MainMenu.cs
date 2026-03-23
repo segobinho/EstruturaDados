@@ -1,4 +1,4 @@
-﻿namespace Presentation.menus
+﻿namespace Presentation.Menus
 {
     public class MainMenu
     {

@@ -1,6 +1,6 @@
 ﻿using Domain.Estruturas;
 
-namespace Presentation.menus
+namespace Presentation.Menus
 {
     public class MenuFilaSimples : IMenu
     {
